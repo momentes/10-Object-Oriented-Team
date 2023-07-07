@@ -51,9 +51,6 @@ npm run test
 ![Video Directory](https://github.com//https://github.com/momentes/10-Object-Oriented-Team/tree/main/Video)
 
 **Link**
-
-
-
 https://github.com/momentes/10-Object-Oriented-Team
 
 **Screenshot**
