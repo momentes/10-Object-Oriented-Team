@@ -51,11 +51,19 @@ npm run test
 ![Video Directory](https://github.com//https://github.com/momentes/10-Object-Oriented-Team/tree/main/Video)
 
 **Link**
+https://drive.google.com/file/d/1uaqiv1odTSAy1l7gpXCzNBm-2h9qalhN/view?usp=sharing
+
+
 https://github.com/momentes/10-Object-Oriented-Team
 
 **Screenshot**
+<img src="Images/Object-Oriented-Team-Profile.png" width=65%>
 
+# License
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+<a href = "https://opensource.org/licenses/MIT">License Link</a>
+<a href = "https://gist.github.com/ckib16/8732561535ed766cd6b8">MIT Guide</a>
 
 Thank you
 End.        
