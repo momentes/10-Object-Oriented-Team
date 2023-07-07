@@ -48,7 +48,7 @@ npm run test
 ```
 
 # Project Links:
-![Video Directory](https://github.com/momentes/10-Object-Oriented-Team/tree/main/Video)
+[Video Directory](https://github.com/momentes/10-Object-Oriented-Team/tree/main/Video)
 
 **Video Link**
 
