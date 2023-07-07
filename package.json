@@ -1,0 +1,23 @@
+{
+  "name": "10-Object-Oriented-Team",
+  "version": "1.0.0",
+  "description": "Team Profile Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/momentes/10-Object-Oriented-Team.git"
+  },
+  "author": "Bryan S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/momentes/10-Object-Oriented-Team/issues"
+  },
+  "homepage": "https://github.com/momentes/10-Object-Oriented-Team#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^24.9.0"
+  }
+}
