@@ -3,10 +3,12 @@ Bootcamp Module 10 Challenge - Object Oriented Team Profile Generator
 
 This is a Node.js command-line application that takes information about the employee's and generates a HTML webpage that displays a summary of each employee.
 
-# Acceptance Criteria
+# User Story
 - AS A manager
 - I WANT to generate a webpage that displays my team's basic info
 - SO THAT I have quick access to their emails and GitHub profiles
+
+# Acceptance Criteria
 - GIVEN a command-line application that accepts user input
 - WHEN I am prompted for my team members and their information
 - THEN an HTML file is generated that displays a nicely formatted team roster based on user input
@@ -54,9 +56,8 @@ npm run test
 https://drive.google.com/file/d/1uaqiv1odTSAy1l7gpXCzNBm-2h9qalhN/view?usp=sharing
 
 
-**Link**
+**Repo Link**
 https://github.com/momentes/10-Object-Oriented-Team
-
 
 
 **Screenshot**
