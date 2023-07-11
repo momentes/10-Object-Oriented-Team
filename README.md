@@ -50,7 +50,7 @@ npm run test
 ```
 
 # Project Links:
-[Video Directory](https://github.com/momentes/10-Object-Oriented-Team/tree/main/Video)
+[Video Directory](https://github.com/momentes/10-Object-Oriented-Team/tree/main/video)
 
 **Video Link** 
 https://drive.google.com/file/d/1uaqiv1odTSAy1l7gpXCzNBm-2h9qalhN/view?usp=sharing
@@ -62,7 +62,7 @@ https://github.com/momentes/10-Object-Oriented-Team
 
 **Screenshot**
 
-<img src="Images/Object-Oriented-Team-Profile.png" width=85%>
+<img src="images/Object-Oriented-Team-Profile.png" width=85%>
 
 # License
 
@@ -72,4 +72,4 @@ https://github.com/momentes/10-Object-Oriented-Team
 
 Thank you
 End.        
-<img src="Images/business-cat1.jpg" width=15%>
+<img src="images/business-cat1.jpg" width=15%>
